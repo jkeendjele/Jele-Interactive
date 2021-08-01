@@ -1,0 +1,42 @@
+Popyea Remote Work Chat Application
+
+Description: With Covid 19 forcing businesses to adjust to new ways of working we decided to create this user friendly application that allows businesses who have affected by the
+             pandemic the opportunity to chat remotely (without their data being tracked ie. whatsapp, slack, microsoft) and delegate different departments in the chat to dicuss different 
+             aspects of theior businesses with certain individuals of their team.
+
+The Chat Application was built with the Javascript framework ReactJS. We made use of this framework for the frontend. The backend was built with chatengine.io,
+which simplifies the process of building a chatengine in a few steps.
+
+The app is mobile responsive through the chat, however if you want to add more departments and members onto your company you need to use it on desktop.
+Since this is the MVP DEMO, we only programmed a few users to currently participate, however its possible to scale and enable more users and organisations.
+
+The application temporarily hosted on netlifyas it provides free and easy hosting (https://popyeachat.netlify.app/)
+
+Below are details on the users credentials you need to type in to use the app.
+
+Admin:
+
+Username: johnkeendjele
+Password: 1234
+
+Team Member (Employee)
+
+Username: thankyhamutenya
+Passowrd: 1234
+
+Team Member (Employee)
+
+Username: tinaknowles
+Passowrd: 1234
+
+Team Member (Employee)
+
+Username: hafenimartin
+Passowrd: 1234
+
+Team Member (Employee)
+
+Username: deanandrew
+Passowrd: 1234
+
+You can currently, for the MVP, log in with these 5 profiles that we coded to demonstrate the application functionality.
